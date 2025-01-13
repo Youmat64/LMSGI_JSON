@@ -1,0 +1,90 @@
+{
+    "pokemons": [
+        {
+            "id": 1,
+            "nom": "Bulbasaur",
+            "tipus": ["Planta", "Verí"],
+            "pes": "6.9 kg",
+            "altura": "70 cm",
+            "estadistiques": {
+                "velocitat": 3,
+                "fortalesa": 3,
+                "precisio": 4,
+                "resistència": 4,
+                "salt": 3,
+                "total": 17,
+                "mitjana": 3.4
+            },
+            "moviments": [
+                {
+                    "nom": "Llátigo Cepa",
+                    "descripcio": "Ataca amb una vinya i pot baixar la defensa de l'enemic.",
+                    "potencia": 45,
+                    "contacte": "Físic"
+                },
+                {
+                    "nom": "Drenadoras",
+                    "descripcio": "Roba vida a l'enemic per restaurar la pròpia salut.",
+                    "potencia": 0,
+                    "contacte": "Especial"
+                }
+            ],
+            "imatge": "https://www.wikidex.net/wiki/Archivo:Bulbasaur.png",
+            "evolucions": [
+                {
+                    "id": 2,
+                    "nom": "Ivysaur",
+                    "nivell_necessari": 16
+                },
+                {
+                    "id": 3,
+                    "nom": "Venusaur",
+                    "nivell_necessari": 32
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "nom": "Charmander",
+            "tipus": ["Foc"],
+            "pes": "8.5 kg",
+            "altura": "60 cm",
+            "estadistiques": {
+                "velocitat": 4,
+                "fortalesa": 4,
+                "precisio": 3,
+                "resistència": 3,
+                "salt": 4,
+                "total": 18,
+                "mitjana": 3.6
+            },
+            "moviments": [
+                {
+                    "nom": "Lanzallamas",
+                    "descripcio": "Ataca amb una flama ardent, pot provocar cremades.",
+                    "potencia": 90,
+                    "contacte": "Especial"
+                },
+                {
+                    "nom": "Arañazo",
+                    "descripcio": "Ataca amb les urpes per fer dany físic.",
+                    "potencia": 40,
+                    "contacte": "Físic"
+                }
+            ],
+            "imatge": "https://www.wikidex.net/wiki/Archivo:Charmander.png",
+            "evolucions": [
+                {
+                    "id": 5,
+                    "nom": "Charmeleon",
+                    "nivell_necessari": 16
+                },
+                {
+                    "id": 6,
+                    "nom": "Charizard",
+                    "nivell_necessari": 36
+                }
+            ]
+        }
+    ]
+}

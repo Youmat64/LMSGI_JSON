@@ -1,0 +1,26 @@
+{
+    "botiga": {
+        "samarreta": {
+            "codi": "0000H",
+            "nom": "Lihuak",
+            "descripcio": "Aquesta samarreta es de les mes venudes del mon",
+            "preu": "29,99€",
+            "categoria": "Roba",
+            "disponibilitat": "Fora de stock",
+            "img": {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuayKQAADic2RLOk-6UxtqUE2DyhEI3d6HvA&s"
+            }
+        },
+        "sabates": {
+            "codi": "0001J",
+            "nom": "nhuitbonkhtek",
+            "descripcio": "Les sabates mes comodes del mon",
+            "preu": "109,99€",
+            "categoria": "Sabates",
+            "disponibilitat": "En stock",
+            "img": {
+                "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdFyIkBKgKdRsJGyiVJPBzFP9f9XQbxgVYRg&s"
+            }
+        }
+    }
+}

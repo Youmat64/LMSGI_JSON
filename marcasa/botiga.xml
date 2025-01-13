@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!---->
+<botiga>
+    <samarreta>
+        <codi>0000H</codi>
+        <nom>Lihuak</nom>
+        <descripcio>Aquesta samarreta es de les mes venudes del mon</descripcio>
+        <preu>29,99€</preu>
+        <categotia>Roba</categoria>
+        <disponibilitat>Fora de stock</disponibilitat>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuayKQAADic2RLOk-6UxtqUE2DyhEI3d6HvA&s">
+    </samarreta>
+    <sabates>
+        <codi>0001J</codi>
+        <nom>nhuitbonkhtek</nom>
+        <descripcio>Les sabates mes comodes del mon</descripcio>
+        <preu>109,99€</preu>
+        <categotia>Sabates</categoria>
+        <disponibilitat>En stock</disponibilitat>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdFyIkBKgKdRsJGyiVJPBzFP9f9XQbxgVYRg&s">
+    </sabates>
+</botiga>
+ 
